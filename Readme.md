@@ -26,7 +26,7 @@ Cinematrixx includes:
 📦 Installation
 
 Follow these steps to run Cinematrixx locally:
-Clone or download the repository:https://github.com/lazyjinchuriki/cinephile
+Clone or download the repository:https://github.com/DeepakErothi1826/Cinematrixx.git
 Extract the project folder.
 Open index.html in your browser — no server required.
 
@@ -67,5 +67,5 @@ If you have any questions or concerns, you can contact the author of this projec
 
 If you're not coding right now, check out my socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40amundaneguy-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_deepak_1826/#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Khushalani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakerothi/)
+[![Instagram](https://img.shields.io/badge/Instagram-%40deepak_1826-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_deepak_1826/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak%20Erothi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakerothi/)
