@@ -1,39 +1,42 @@
-# Cinephile
-[![Visit My Website](https://img.shields.io/badge/Visit%20My-Website-blue?style=for-the-badge&logo=arrow-right&logoColor=white)](https://lazyjinchuriki.github.io/cinephile/)
+🎬 Cinematrixx
 
-Cinephile is a `Movies` and `TvShows` finder website that allows you to get an overview and trailer of popular movies and shows. You can even search for your favourite Movies and Shows and get an overview and trailer for them.
+Cinematrixx is a modern Movie & TV Show discovery web application that lets users explore trending, top-rated, and upcoming content. It provides detailed overviews, cast info, genres, and trailers, along with a powerful search system to find your favourite titles instantly.
 
-The website is built with basic HTML, CSS, and vanilla JavaScript, and uses `TMDB API` to fetch data on movies and TV shows.
+Built using HTML, CSS, and JavaScript, Cinematrixx uses the TMDB API to fetch accurate and real-time movie data.
 
-## Tech Stacks
+🛠 Tech Stack
 
  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 
-## Features
 
-Cinephile offers the following features:
+⭐ Features
 
-- Search for movies and TV shows
-- Get an overview and trailer for movies and TV shows
-- View popular movies and TV shows
-- View top-rated movies and TV shows
-- View upcoming movies
-- Filter out movies and shows based on genres
-- Go to next and previous page
+Cinematrixx includes:
 
-## Installation
+🔍 Search for Movies & TV Shows
+🎬 Overview, genres, trailers & cast info
+🔥 Trending & Popular lists
+⭐ Top-rated Movies & Shows
+🎞 Upcoming Movies
+🎯 Genre-based filtering
+📄 Pagination (Next/Prev pages)
+📱 Fully responsive and clean UI
 
-To install Cinephile, follow these steps:
 
-1. Download the source code from the repository: https://github.com/lazyjinchuriki/cinephile
-2. Extract the files from the downloaded ZIP archive.
-3. Open the `index.html` file in your web browser.
+📦 Installation
 
-## Usage
+Follow these steps to run Cinematrixx locally:
+Clone or download the repository:https://github.com/lazyjinchuriki/cinephile
+Extract the project folder.
+Open index.html in your browser — no server required.
 
-Once you have installed Cinephile, you can use it by opening `index.html` in your web browser.
+🚀 Usage
 
-## Screenshots
+Just open index.html and start browsing movies and shows instantly.
+No setup. No dependencies.
+
+
+📸 Screenshots
 
 Here are some screenshots of Cinephile in action:
 
@@ -41,31 +44,28 @@ Here are some screenshots of Cinephile in action:
 ![Search results screenshot](/screenshots/search.png "Search Result")
 ![Genre filter screenshot](/screenshots/filter.png "Genre Filtering")
 
-## Credits
+🙌 Credits
 
-Cinephile uses the following open source libraries:
+This project uses the following API:
 
 - TMDB API: https://www.themoviedb.org/documentation/api
 
-## Contributing
+🤝 Contributing
 
-Contributions to Cinephile are always welcome. If you find any bugs or issues, please open an issue on GitHub or submit a pull request.
+Contributions are welcome!
+If you discover bugs or want to improve the project, feel free to open an issue or submit a pull request.
 
-## Contact
 
-If you have any questions or concerns, you can contact the author of this project at [rahulkhushalani@proton.me](mailto:rahulkhushalani@proton.me).
+📬 Contact
 
-### Donations
+If you have any questions or concerns, you can contact the author of this project at 
+[deepakerothi7@gmail.com](mailto:deepakerothi7@gmail.com).
 
-If you found Gallery useful, consider buying me a coffee!
+ 
 
-<a href="https://www.buymeacoffee.com/lazyjinchuriki">
-  <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" width="150" height="50">
-</a>
-
-## Social
+🌐 Social
 
 If you're not coding right now, check out my socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40amundaneguy-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amundaneguy/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Khushalani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-khushalani-77ab21201/)
+[![Instagram](https://img.shields.io/badge/Instagram-%40amundaneguy-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_deepak_1826/#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Khushalani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakerothi/)
